@@ -1,26 +1,7 @@
 <h1 align="center">Hola 👋, Soy <a href="https://github.com/pablobastidas/pablobastidas" target="blank">
 Pablo Bastidas</a></h1>
-<h3 align="center">Un apasionado desarrollador de .NET y con curiosidad por Python y otras tecnologías desde Chile
+<h3 align="center">Un apasionado desarrollador de .NET y con curiosidad por Python y otras tecnologías desde Chile 🇨🇱
 </h3>
-
-<svg xmlns="http://www.w3.org/2000/svg" width="30" height="20" viewBox="0 0 900 600">
-  <path fill="#FFF" d="M0 0h900v600H0z"/>
-  <path fill="#0032A0" d="M0 0h300v450H0z"/>
-  <path fill="#DA291C" d="M0 300h900v300H0z"/>
-  <g fill="#FFF" transform="translate(150 150)">
-    <g id="b">
-      <path id="a" d="M0-75V0h37.5" transform="rotate(18 0 -75)"/>
-      <use xlink:href="#a" transform="scale(-1 1)"/>
-    </g>
-    <use xlink:href="#b" transform="rotate(72)"/>
-    <use xlink:href="#b" transform="rotate(144)"/>
-    <use xlink:href="#b" transform="rotate(216)"/>
-    <use xlink:href="#b" transform="rotate(288)"/>
-  </g>
-</svg>
-
-
-
 <br>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=pablobastidas&label=Profile%20views&color=0e75b6&style=flat" alt="pablobastidas" /></p>
