@@ -3,16 +3,7 @@ Pablo Bastidas</a></h1>
 <h3 align="center">Un apasionado desarrollador de .NET y con curiosidad por Python y otras tecnologías desde Chile
 </h3>
 
-<svg width="90" height="60" viewBox="0 0 90 60" xmlns="http://www.w3.org/2000/svg">
-  <!-- Franja blanca superior derecha -->
-  <rect x="30" y="0" width="60" height="30" fill="white"/>
-  <!-- Franja roja inferior -->
-  <rect x="0" y="30" width="90" height="30" fill="#DA291C"/>
-  <!-- Cuadrado azul -->
-  <rect x="0" y="0" width="30" height="30" fill="#0033A0"/>
-  <!-- Estrella blanca -->
-  <path d="M15 8 L17.5 13.5 L23 13.5 L18.5 17 L20.5 22.5 L15 19 L9.5 22.5 L11.5 17 L7 13.5 L12.5 13.5 Z" fill="white"/>
-</svg>
+Desde Chile <svg width="16" height="11" viewBox="0 0 16 11" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;"><rect x="5.33" y="0" width="10.67" height="5.5" fill="white"/><rect x="0" y="5.5" width="16" height="5.5" fill="#DA291C"/><rect x="0" y="0" width="5.33" height="5.5" fill="#0033A0"/><path d="M2.67 1.5 L3.2 2.8 L4.53 2.8 L3.47 3.6 L4 4.9 L2.67 4.1 L1.33 4.9 L1.87 3.6 L0.8 2.8 L2.13 2.8 Z" fill="white"/></svg> con amor
 
 
 <br>
