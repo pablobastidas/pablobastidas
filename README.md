@@ -3,16 +3,19 @@ Pablo Bastidas</a></h1>
 <h3 align="center">Un apasionado desarrollador de .NET y con curiosidad por Python y otras tecnologías desde Chile
 </h3>
 
-<div style="width:90px; height:60px; display:flex; flex-direction:column">
-  <div style="height:30px; display:flex">
-    <div style="width:30px; height:30px; background:#0033a0; position:relative">
-      <span style="position:absolute; top:7px; left:10px; color:white; font-size:14px">★</span>
-    </div>
-    <div style="width:60px; height:30px; background:white"></div>
-  </div>
-  <div style="width:90px; height:30px; background:#da291c"></div>
-</div>
+<svg width="90" height="60" viewBox="0 0 90 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Franja blanca superior derecha -->
+  <rect x="30" y="0" width="60" height="30" fill="white"/>
+  <!-- Franja roja inferior -->
+  <rect x="0" y="30" width="90" height="30" fill="#DA291C"/>
+  <!-- Cuadrado azul -->
+  <rect x="0" y="0" width="30" height="30" fill="#0033A0"/>
+  <!-- Estrella blanca -->
+  <path d="M15 8 L17.5 13.5 L23 13.5 L18.5 17 L20.5 22.5 L15 19 L9.5 22.5 L11.5 17 L7 13.5 L12.5 13.5 Z" fill="white"/>
+</svg>
 
+
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
