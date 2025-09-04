@@ -30,9 +30,7 @@ Pablo Bastidas</a></h1>
 <br>
 
 <!--h1 without bottom border-->
-<ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-</ul>
+<h2 align="center">Technologies That I Know👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
