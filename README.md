@@ -7,7 +7,7 @@ Pablo Bastidas</a></h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=pablobastidas&label=Profile%20views&color=0e75b6&style=flat" alt="pablobastidas" /></p>
 
 <p align="left"> 
-  <a href="https://instagram.com/pablobastidas" target="blank">
+  <a href="https://instagram.com/bastidaspablo" target="blank">
     <img src="https://img.shields.io/badge/@pablobastidas-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram pablobastidas" />
   </a> 
 </p>
