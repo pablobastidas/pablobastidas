@@ -40,21 +40,7 @@ Pablo Bastidas</a></h1>
 
 <div align="center">
 
-### 🎧 Estoy Escuchando
-
-<table>
-<tr>
-<td>
-🎵
-</td>
-<td>
-<strong>Nombre de tu Canción</strong><br>
-<small>👤 Artista - 📱 YouTube Music</small><br>
-<img src="https://img.shields.io/badge/🎵-Reproduciendo%20ahora-green?style=flat"/>
-<img src="https://img.shields.io/badge/⏰-Actualizado%20hoy-blue?style=flat"/>
-</td>
-</tr>
-</table>
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=pablobastidas&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=pablobastidas&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)]]
 
 </div>
 
