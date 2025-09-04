@@ -38,11 +38,9 @@ Pablo Bastidas</a></h1>
   </a>
 </p>
 
-### 🎧 Estoy escuchando en YouTube Music
+### 🎧 Estoy escuchando
 
-![YouTube Music](https://github.com/ogu/YTMReadme/blob/main/ytm_readme.png?raw=true)
-
-
+[![Apple Music](https://music-profile.rayriffy.com/theme/dark.svg)](https://music.apple.com/profile/TU_USUARIO)
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Me puedes contactar 🤝 </h3>
 
