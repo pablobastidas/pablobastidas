@@ -8,7 +8,7 @@ Pablo Bastidas</a></h1>
 
 <p align="left"> 
   <a href="https://instagram.com/bastidaspablo" target="blank">
-    <img src="https://img.shields.io/badge/@pablobastidas-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram pablobastidas" />
+    <img src="https://img.shields.io/badge/@bastidaspablo-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram bastidaspablo" />
   </a> 
 </p>
 
