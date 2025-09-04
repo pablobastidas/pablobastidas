@@ -3,7 +3,22 @@ Pablo Bastidas</a></h1>
 <h3 align="center">Un apasionado desarrollador de .NET y con curiosidad por Python y otras tecnologías desde Chile
 </h3>
 
-Desde Chile <svg width="16" height="11" viewBox="0 0 16 11" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;"><rect x="5.33" y="0" width="10.67" height="5.5" fill="white"/><rect x="0" y="5.5" width="16" height="5.5" fill="#DA291C"/><rect x="0" y="0" width="5.33" height="5.5" fill="#0033A0"/><path d="M2.67 1.5 L3.2 2.8 L4.53 2.8 L3.47 3.6 L4 4.9 L2.67 4.1 L1.33 4.9 L1.87 3.6 L0.8 2.8 L2.13 2.8 Z" fill="white"/></svg> con amor
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="20" viewBox="0 0 900 600">
+  <path fill="#FFF" d="M0 0h900v600H0z"/>
+  <path fill="#0032A0" d="M0 0h300v450H0z"/>
+  <path fill="#DA291C" d="M0 300h900v300H0z"/>
+  <g fill="#FFF" transform="translate(150 150)">
+    <g id="b">
+      <path id="a" d="M0-75V0h37.5" transform="rotate(18 0 -75)"/>
+      <use xlink:href="#a" transform="scale(-1 1)"/>
+    </g>
+    <use xlink:href="#b" transform="rotate(72)"/>
+    <use xlink:href="#b" transform="rotate(144)"/>
+    <use xlink:href="#b" transform="rotate(216)"/>
+    <use xlink:href="#b" transform="rotate(288)"/>
+  </g>
+</svg>
+
 
 
 <br>
