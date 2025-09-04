@@ -38,34 +38,16 @@ Pablo Bastidas</a></h1>
   </a>
 </p>
 
+### 🎵 Estoy Escuchando
+
 <div align="center">
 
-### 🎧 Reproduciendo Ahora
+[![YouTube Music](https://ytmusic-github-readme.vercel.app/api/ytmusic)](https://music.youtube.com)
 
-<table>
-<tr>
-<td rowspan="2">
-<img src="https://img.youtube.com/vi/TU_VIDEO_ID/hqdefault.jpg" width="150" style="border-radius: 10px;"/>
-</td>
-<td>
-<h3>🎵 Nombre de la Canción</h3>
-<h4>👤 Tu Nombre Artístico</h4>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://www.youtube.com/watch?v=TU_VIDEO_ID">
-<img src="https://img.shields.io/badge/▶️%20Play%20on%20YouTube-red?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black"/>
-</a>
-<br><br>
-<img src="https://img.shields.io/badge/🎵%20Pop-blueviolet?style=flat&logoColor=white"/>
-<img src="https://img.shields.io/badge/⏱️%203:45-green?style=flat&logoColor=white"/>
-<img src="https://img.shields.io/badge/🔥%20Nuevo-orange?style=flat&logoColor=white"/>
-</td>
-</tr>
-</table>
+*🎧 Actualizándose desde YouTube Music*
 
 </div>
+
 
 
 
