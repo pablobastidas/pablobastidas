@@ -38,17 +38,9 @@ Pablo Bastidas</a></h1>
   </a>
 </p>
 
-## 🎵 Mi Música
-
-### 🎧 Última Canción
-[![Mi Nueva Canción - Título Aquí](https://img.youtube.com/vi/TU_VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=TU_VIDEO_ID)
-
-### 🎼 Más Música
-| Canción | Género | Enlace |
-|---------|---------|---------|
-| Canción 1 | Pop | [![▶️](https://img.youtube.com/vi/ID1/default.jpg)](https://www.youtube.com/watch?v=ID1) |
-| Canción 2 | Rock | [![▶️](https://img.youtube.com/vi/ID2/default.jpg)](https://www.youtube.com/watch?v=ID2) |
-
+<a href="https://www.youtube.com/watch?v=VIDEO_ID">
+  <img src="https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg" width="600" height="300" />
+</a>
 
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Me puedes contactar 🤝 </h3>
