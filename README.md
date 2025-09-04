@@ -38,9 +38,35 @@ Pablo Bastidas</a></h1>
   </a>
 </p>
 
-<a href="https://www.youtube.com/watch?v=VIDEO_ID">
-  <img src="https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg" width="600" height="300" />
+<div align="center">
+
+### 🎧 Reproduciendo Ahora
+
+<table>
+<tr>
+<td rowspan="2">
+<img src="https://img.youtube.com/vi/TU_VIDEO_ID/hqdefault.jpg" width="150" style="border-radius: 10px;"/>
+</td>
+<td>
+<h3>🎵 Nombre de la Canción</h3>
+<h4>👤 Tu Nombre Artístico</h4>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://www.youtube.com/watch?v=TU_VIDEO_ID">
+<img src="https://img.shields.io/badge/▶️%20Play%20on%20YouTube-red?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black"/>
 </a>
+<br><br>
+<img src="https://img.shields.io/badge/🎵%20Pop-blueviolet?style=flat&logoColor=white"/>
+<img src="https://img.shields.io/badge/⏱️%203:45-green?style=flat&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔥%20Nuevo-orange?style=flat&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+</div>
+
 
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Me puedes contactar 🤝 </h3>
