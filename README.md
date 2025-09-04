@@ -37,7 +37,7 @@ Pablo Bastidas</a></h1>
 		<img src="https://img.icons8.com/doodle/40/000000/github--v2.png" alt="GitHub" /></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/bastidaspablo">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-	 <a><img src="https://img.icons8.com/doodle/40/000000/palm-leaf.png" alt="Palm Leaf" /></a>
+	 <a><img src="https://img.icons8.com/doodle/40/000000/leaf--v2.png" alt="Leaf v2" /></a>
       </div>
 
 </p>
