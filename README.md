@@ -38,9 +38,26 @@ Pablo Bastidas</a></h1>
   </a>
 </p>
 
-### 🎧 Estoy escuchando
+<div align="center">
 
-[![Apple Music](https://music-profile.rayriffy.com/theme/dark.svg)](https://music.apple.com/profile/TU_USUARIO)
+### 🎧 Estoy Escuchando
+
+<table>
+<tr>
+<td>
+🎵
+</td>
+<td>
+<strong>Nombre de tu Canción</strong><br>
+<small>👤 Artista - 📱 YouTube Music</small><br>
+<img src="https://img.shields.io/badge/🎵-Reproduciendo%20ahora-green?style=flat"/>
+<img src="https://img.shields.io/badge/⏰-Actualizado%20hoy-blue?style=flat"/>
+</td>
+</tr>
+</table>
+
+</div>
+
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Me puedes contactar 🤝 </h3>
 
