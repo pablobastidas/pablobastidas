@@ -16,20 +16,16 @@ Pablo Bastidas</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭 Actualmente estoy nuevamente en proyectos independientes en Mobile y Angular
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 Estoy en perfeccionamiento de Angular y nuevas técnologías
 
-- 🤝 I’m available for freelancing.
-
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 🤝 Disponible para asesorías Freelance.
 
 - 💬 Me puedes preguntar **C# y Python (A veces ejecuto machine learning)**
 
 - 📫 Me puedes contactar en **pablobastidasgarrido@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Me puedes contactar 🤝 </h3>
 
 <p align="center">
