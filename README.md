@@ -34,7 +34,7 @@ Pablo Bastidas</a></h1>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,postgres,firebase,github,html,java,js,materialui,mysql,nextjs,nodejs,postman,py,redux,tailwind,ts,vscode,kubernetes,csharp&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cs,angular,git,bootstrap,css,js,jquery,laravel,django,dotnet,flask,heroku,html,mysql,nodejs,npm,php,postgres,postman,py,sklearn,symfony,tailwind,ts,visualstudio,vite,vscode&perline=14" />
   </a>
 </p>
 
