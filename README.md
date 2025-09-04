@@ -1,6 +1,7 @@
 <h1 align="center">Hola 👋, Soy <a href="https://github.com/pablobastidas/pablobastidas" target="blank">
 Pablo Bastidas</a></h1>
-<h3 align="center">Un apasionado desarrollador de .NET y con curiosidad por Python y otras tecnologías &#127470;&#127475</h3>
+<h3 align="center">Un apasionado desarrollador de .NET y con curiosidad por Python y otras tecnologías desde Chile <div style="width:90px;height:60px;display:flex;flex-direction:column"><div style="height:30px;display:flex"><div style="width:30px;height:30px;background:#0033a0;position:relative"><span style="position:absolute;top:7px;left:10px;color:white;font-size:14px">★</span></div><div style="width:60px;height:30px;background:white"></div></div><div style="width:90px;height:30px;background:#da291c"></div></div>
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
