@@ -18,7 +18,7 @@ Pablo Bastidas</a></h1>
 
 - 🔭 Actualmente estoy nuevamente en proyectos independientes en Mobile y Angular
 
-- 🌱 Estoy en perfeccionamiento de Angular y nuevas técnologías
+- 🌱 Estoy en perfeccionamiento de Angular y nuevas tecnologías
 
 - 🤝 Disponible para asesorías Freelance.
 
