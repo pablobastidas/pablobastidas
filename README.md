@@ -38,15 +38,9 @@ Pablo Bastidas</a></h1>
   </a>
 </p>
 
-### 🎵 Estoy Escuchando
+### 🎧 Últimas canciones escuchadas
 
-<div align="center">
-
-[![YouTube Music](https://ytmusic-github-readme.vercel.app/api/ytmusic)](https://music.youtube.com)
-
-*🎧 Actualizándose desde YouTube Music*
-
-</div>
+[![Last.fm](https://lastfm-recently-played.vercel.app/api?user=TU_USUARIO_LASTFM)](https://www.last.fm/user/TU_USUARIO_LASTFM)
 
 
 
