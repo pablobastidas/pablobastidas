@@ -38,7 +38,7 @@ Pablo Bastidas</a></h1>
   </a>
 </p>
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=pablobastidas&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=pablobastidas&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)]]
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pablobastidas&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Me puedes contactar 🤝 </h3>
