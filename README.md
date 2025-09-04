@@ -38,8 +38,9 @@ Pablo Bastidas</a></h1>
   </a>
 </p>
 
+<div align="center">
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pablobastidas&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
+</div>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Me puedes contactar 🤝 </h3>
 
